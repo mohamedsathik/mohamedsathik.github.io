@@ -1,3 +1,3 @@
 # mohamedsathik.github.io
 
-## This is justan check message
+## This is just an check message
